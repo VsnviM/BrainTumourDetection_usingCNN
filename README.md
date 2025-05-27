@@ -1,10 +1,4 @@
 # BrainTumourDetection_usingCNN
-Sure! Here's the full README text you can copy and paste:
-
----
-
-# 🧠 Brain Tumor Detection Using CNN
-
 A Convolutional Neural Network (CNN)-based classifier to detect brain tumors from MRI images using TensorFlow and Keras.
 
 ---
